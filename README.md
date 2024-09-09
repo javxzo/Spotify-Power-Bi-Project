@@ -1,6 +1,8 @@
 # Spotify Data Analysis & Visualization Project 🎧
 
-### Check out the project here: 
+### Check out the project here:
+
+![Spotify Dashboard](./Spotify_DB.png)
 
 This project focuses on analyzing and visualizing the top songs of 2023 using data from a Kaggle Dataset and Spotify's API, alongside powerful tools like Deneb, Kaggle, Power BI, and Excel!
 
